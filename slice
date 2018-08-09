@@ -20,4 +20,14 @@ split_jusik
 
 print(split_jusik[1])
 
+# 문자열 합치기
 
+daum="Daum"
+
+kakao= "KAKAO"
+
+print(daum+kakao)
+
+daum_kakao =daum+' '+kakao
+
+print(daum_kakao)
