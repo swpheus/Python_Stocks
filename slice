@@ -1,0 +1,23 @@
+mystring='hello word'
+
+print(len(mystring))
+print(mystring[0:5])
+
+print(mystring[6:-1])
+
+my_jusik="naver daum"
+
+print(my_jusik)
+
+print(my_jusik.split(' '))
+
+print(my_jusik.split(' ')[0])
+
+# 가독성
+
+split_jusik=my_jusik.split(' ')
+split_jusik
+
+print(split_jusik[1])
+
+
